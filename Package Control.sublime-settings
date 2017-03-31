@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Colorsublime",
+		"Git",
+		"Javascript Beautify",
+		"LESS",
+		"Material Theme",
+		"Package Control",
+		"ProjectManager",
+		"Sass",
+		"SFTP",
+		"sublimelint",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"Vue Syntax Highlight"
+	]
+}
